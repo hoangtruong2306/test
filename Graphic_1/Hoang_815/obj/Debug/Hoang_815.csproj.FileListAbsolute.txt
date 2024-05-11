@@ -1,0 +1,11 @@
+C:\Users\truon\source\repos\Graphic_1\Hoang_815\bin\Debug\Hoang_815.exe.config
+C:\Users\truon\source\repos\Graphic_1\Hoang_815\bin\Debug\Hoang_815.exe
+C:\Users\truon\source\repos\Graphic_1\Hoang_815\bin\Debug\Hoang_815.pdb
+C:\Users\truon\source\repos\Graphic_1\Hoang_815\obj\Debug\Hoang_815.csproj.AssemblyReference.cache
+C:\Users\truon\source\repos\Graphic_1\Hoang_815\obj\Debug\Hoang_815.Properties.Resources.resources
+C:\Users\truon\source\repos\Graphic_1\Hoang_815\obj\Debug\Hoang_815.csproj.GenerateResource.cache
+C:\Users\truon\source\repos\Graphic_1\Hoang_815\obj\Debug\Hoang_815.csproj.CoreCompileInputs.cache
+C:\Users\truon\source\repos\Graphic_1\Hoang_815\obj\Debug\Hoang_815.exe
+C:\Users\truon\source\repos\Graphic_1\Hoang_815\obj\Debug\Hoang_815.pdb
+C:\Users\truon\source\repos\Graphic_1\Hoang_815\obj\Debug\Hoang_815.Form2.resources
+C:\Users\truon\source\repos\Graphic_1\Hoang_815\obj\Debug\Hoang_815.frm2.resources
